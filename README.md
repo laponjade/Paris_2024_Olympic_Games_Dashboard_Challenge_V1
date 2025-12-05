@@ -109,7 +109,7 @@ Interactive knowledge quiz:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/paris-2024-olympics-dashboard.git
+git https://github.com/laponjade/Paris_2024_Olympic_Games_Dashboard_Challenge_V1.git
 cd paris-2024-olympics-dashboard
 ```
 
